@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Added Member To Class: ClassName=drv8886_breakout Member=Component R2 ?
+Added Room: Name=drv8886_breakout

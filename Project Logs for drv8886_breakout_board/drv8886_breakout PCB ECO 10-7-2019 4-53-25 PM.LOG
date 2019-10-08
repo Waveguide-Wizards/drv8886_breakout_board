@@ -1,0 +1,35 @@
+Added Component: Designator=U1(PWP0024B_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Jessica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DRV8886ATPWP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Pin To Net: NetName=VM Pin=U1-4
+Added Pin To Net: NetName=AOUT1 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=AOUT2 Pin=U1-7
+Added Pin To Net: NetName=BOUT2 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=BOUT1 Pin=U1-10
+Added Pin To Net: NetName=VM Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetC7_2 Pin=U1-13
+Added Pin To Net: NetName=NetC8_2 Pin=U1-14
+Added Pin To Net: NetName=!FAULT Pin=U1-15
+Added Pin To Net: NetName=NetR2_2 Pin=U1-16
+Added Pin To Net: NetName=!SLEEP Pin=U1-17
+Added Pin To Net: NetName=ENABLE Pin=U1-18
+Added Pin To Net: NetName=STEP Pin=U1-19
+Added Pin To Net: NetName=DIR Pin=U1-20
+Added Pin To Net: NetName=M0 Pin=U1-21
+Added Pin To Net: NetName=M1 Pin=U1-22
+Added Pin To Net: NetName=TRQ Pin=U1-23
+Added Pin To Net: NetName=Decay Pin=U1-24
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Member To Class: ClassName=drv8886_breakout Member=Component U1 Part Number: DRV8886ATPWP

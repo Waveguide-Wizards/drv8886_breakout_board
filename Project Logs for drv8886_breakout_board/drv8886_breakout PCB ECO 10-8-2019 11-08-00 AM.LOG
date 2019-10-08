@@ -1,0 +1,23 @@
+Change Component Footprint: Designator=C3 Old Footprint=PNSC-EEEFK1C101P_L New Footprint=PNSC-FK-V-F_V
+Change component parameters: Designator = "C3"; Footprint = "PNSC-FK-V-F_V"; UniqueID = "\CARLGVDO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "Ø8x10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "0.34O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "350mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=drv8886_breakout Member=Component U1 Part Number: DRV8886ATPWP
+Added Room: Name=drv8886_breakout
