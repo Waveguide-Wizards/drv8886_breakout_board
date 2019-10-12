@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AOUT2 Pin=J1-1
+Removed Pin From Net: NetName=AOUT1 Pin=J1-2
+Added Pin To Net: NetName=AOUT1 Pin=J1-1
+Added Pin To Net: NetName=AOUT2 Pin=J1-2
+Added Member To Class: ClassName=drv8886_breakout Member=Component R4 Res2
+Added Room: Name=drv8886_breakout
