@@ -1,3 +1,3 @@
 # drv8886_breakout_board
 
-![DRV8886 Breakout Board](drv8886_breakout_screenshot_10_15.png)
+![alt text](https://github.com/Waveguide-Wizards/drv8886_breakout_board/blob/master/drv8886_breakout_screenshot_10_15.PNG)
