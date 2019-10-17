@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [drv8886_breakout_board.PrjPcb]
+   Generated File[drv8886_breakout.RUL]
+   Generated File[drv8886_breakout.EXTREP]
+   Generated File[drv8886_breakout.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:24:14 AM On 10/17/2019
