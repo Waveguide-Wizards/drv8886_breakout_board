@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\AD19\drv8886_breakout_board_10_15\drv8886_breakout.PcbDoc
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\drv8886_breakout_board\drv8886_breakout.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00

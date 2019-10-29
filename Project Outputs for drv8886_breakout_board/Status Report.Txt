@@ -1,12 +1,13 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [drv8886_breakout_board.PrjPcb]
-   Generated File[drv8886_breakout.RUL]
-   Generated File[drv8886_breakout.EXTREP]
-   Generated File[drv8886_breakout.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [drv8886_breakout_board.PrjPcb]
+   Generated File[drv8886_breakout.TXT]
+   Generated File[drv8886_breakout.DRL]
+   Generated File[drv8886_breakout.LDP]
+   Generated File[drv8886_breakout.DRR]
 
 
-Files Generated   : 3
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 10:24:14 AM On 10/17/2019
+Finished Output Generation At 10:52:29 AM On 10/24/2019
