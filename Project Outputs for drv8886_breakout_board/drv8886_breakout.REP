@@ -1,3 +1,325 @@
 *************************************************************
 FileName = drv8886_breakout.GBR
 AutoAperture = True
+*************************************************************
+Generating : Mechanical 16
+      File : drv8886_breakout.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : drv8886_breakout.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : drv8886_breakout.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : drv8886_breakout.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : drv8886_breakout.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D40
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : drv8886_breakout.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : drv8886_breakout.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : drv8886_breakout.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : drv8886_breakout.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : drv8886_breakout.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : drv8886_breakout.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : drv8886_breakout.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : drv8886_breakout.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : drv8886_breakout.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : drv8886_breakout.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : drv8886_breakout.GM7
+
+    Adding Layer      : Mechanical 7
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : drv8886_breakout.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : drv8886_breakout.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : drv8886_breakout.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
